@@ -280,10 +280,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@cookiex/deep@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@cookiex/deep/-/deep-0.0.1.tgz#905ad27a2468686dd1db6bf5e5f082c331eec99b"
-  integrity sha512-ySUPyTH33alx4ARSSTeAIY8I+iUrrC7wVKw81ryZOhSpI0YDv76etdz7IwPpHtFPJvcWSRsibh6cPcSA87uQRw==
+"@cookiex/deep@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@cookiex/deep/-/deep-0.0.7.tgz#4a0541a347c3da60234940a208edc7c3338f3ef9"
+  integrity sha512-xEhHA8q2FPJ+k+TUSqTh52GQTikIU5GMF53dsaHKF+n94dp5M8Up+ZDtujcxhkY6RBJsSFxApYWhCXwEf3sZNg==
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
